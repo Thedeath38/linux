@@ -7,3 +7,4 @@ Crear un servidor Apache con 4 virtual host:
 
 Crear una máquina con el servidor Apache y el servidor dns necesario.
 Crear otra máquina con un entorno gráfico para comprobar el correcto funcionamiento.
+Aff
